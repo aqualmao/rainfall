@@ -6,6 +6,7 @@ this project is completely SELF HOSTED! you'll need to setup your own database a
 
 frontend - html, css, js
 backend - python(flask for api), mysql(database), apache(website), ubuntuserver(server os)
+PREREQS - Flask, Python 3.11.9
 
 ok so for this i'm gonna try to have the database on its own machine, with another machine running apache and holding the api (im still trying to figure out the whole api thing lol)
 
