@@ -5,7 +5,7 @@ ok so im just gonna type out my plans for this here and how its all gonna form t
 this project is completely SELF HOSTED! you'll need to setup your own database and website to link this to, unless you just wanna steal the website i put up on here
 
 frontend - html, css, js
-backend - python(flask for api), mysql(database), apache(website), ubuntuserver(server os)
+backend - node.js(express), mysql(database), apache(website), ubuntuserver(server os)
 PREREQS - Flask, Python 3.11.9
 
 ok so for this i'm gonna try to have the database on its own machine, with another machine running apache and holding the api (im still trying to figure out the whole api thing lol)
